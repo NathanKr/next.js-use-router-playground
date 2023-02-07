@@ -6,4 +6,4 @@
 useRouter of next.js with one button 
 
 <h2>Points of interest</h2>
-In this design i do not persist the index incremented. However, in checkyourtechskills.com i get the index from the server ans pass it to the page thus i can implement increment and decrement nicely
+In this design i do not persist the index incremented. However, in checkyourtechskills.com i get the index from the server and pass it to the page thus i can implement increment and decrement nicely
